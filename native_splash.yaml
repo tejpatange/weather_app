@@ -1,0 +1,8 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+  
+  color: "#2196F3"
+  background_image: "assets/colorkit-min.png"
+  image: "assets/cloudy.png"
